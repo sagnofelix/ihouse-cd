@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: ihouse
-        image: jeanfelixsagno/ihouse:1.0.0
+        image: jeanfelixsagno/ihouse:0.0.1
         resources:
           limits:
             memory: "128Mi"
